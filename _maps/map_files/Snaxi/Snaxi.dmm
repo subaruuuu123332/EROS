@@ -4640,6 +4640,7 @@
 /turf/open/floor/plasteel/white,
 /area/science/lab)
 "aiB" = (
+/obj/effect/landmark/start/explorer,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},

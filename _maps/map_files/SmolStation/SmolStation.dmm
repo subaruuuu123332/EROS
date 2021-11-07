@@ -4503,6 +4503,7 @@
 /turf/open/floor/plasteel,
 /area/cargo/qm)
 "dex" = (
+/obj/effect/landmark/start/explorer,
 /obj/effect/turf_decal/tile/purple,
 /obj/effect/turf_decal/tile/purple{
 	dir = 1

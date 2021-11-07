@@ -30621,6 +30621,7 @@
 /turf/open/floor/plasteel,
 /area/science/lab)
 "bvz" = (
+/obj/effect/landmark/start/explorer,
 /obj/structure/cable{
 	icon_state = "1-2"
 	},

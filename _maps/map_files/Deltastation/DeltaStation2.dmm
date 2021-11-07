@@ -46557,6 +46557,7 @@
 /turf/open/floor/plasteel,
 /area/science/lab)
 "dcH" = (
+/obj/effect/landmark/start/explorer,
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
 	},

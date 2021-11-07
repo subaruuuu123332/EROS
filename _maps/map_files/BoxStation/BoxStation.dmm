@@ -24580,6 +24580,7 @@
 /turf/open/floor/plasteel,
 /area/cargo/office)
 "biU" = (
+/obj/effect/landmark/start/scientist,
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
 	},
@@ -24590,7 +24591,7 @@
 /area/science/research)
 "biV" = (
 /obj/structure/chair/stool,
-/obj/effect/landmark/start/scientist,
+/obj/effect/landmark/start/explorer,
 /obj/effect/turf_decal/tile/purple{
 	dir = 1
 	},

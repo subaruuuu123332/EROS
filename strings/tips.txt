@@ -70,6 +70,7 @@ As a Scientist, getting drunk just enough will speed up research. Skol!
 As a Scientist, you can get points by placing slime cores into the destructive analyzer! This even works with crossbred slime cores.
 As a Scientist, you can get points by placing seed packets into the destructive analyzer! This even works with mutated plants.
 As a Scientist, any machine which prints things - be it your protolathe or circuit imprinters - can be used to teleport raw materials directly from the ore silo straight into your workplace.
+As an Explorer, you have access to the gateway in addition to R&D. Use your access to capture worthy "test subjects" for your depraved desires. Host an alien orgy in R&D Lobby!
 As a Roboticist, keep an ear out for anomaly announcements. If you get your hands on an anomaly core, you can build a Phazon mech!
 As a Roboticist, you can repair a cyborg's brute damage with a welding tool. If they have taken burn damage, you can remove their battery, expose the wiring with a screwdriver and replace their wires with a cable coil.
 As a Roboticist, you can reset a cyborg's module by cutting and mending the reset wire with a wire cutter.

@@ -62,6 +62,9 @@
 /datum/job/scientist
 	alt_titles = list("Circuitry Designer", "Xenobiologist", "Xenobotanist", "Chemical Researcher")
 
+/datum/job/explorer
+	alt_titles = list("Trailblazer", "Wayfinder", "Xenoarchaeologist")
+
 //Medical
 /datum/job/chemist
 	alt_titles = list("Pharmacist", "Pharmacologist")
@@ -94,4 +97,4 @@
 	alt_titles = list("Shipping Specialist", "Delivery Manager")
 
 /datum/job/mining
-	alt_titles = list("Explorer")
+	alt_titles = list("Prospector")

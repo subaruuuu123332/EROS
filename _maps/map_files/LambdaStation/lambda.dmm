@@ -16510,6 +16510,7 @@
 /turf/open/floor/plasteel,
 /area/science/lab)
 "aDy" = (
+/obj/effect/landmark/start/explorer,
 /turf/open/floor/plasteel,
 /area/science/lab)
 "aDz" = (

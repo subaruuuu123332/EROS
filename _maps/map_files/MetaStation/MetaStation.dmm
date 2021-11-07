@@ -28926,6 +28926,7 @@
 /turf/open/floor/plasteel,
 /area/science/lab)
 "cka" = (
+/obj/effect/landmark/start/explorer,
 /obj/structure/disposalpipe/segment,
 /obj/effect/turf_decal/stripes/line{
 	dir = 8

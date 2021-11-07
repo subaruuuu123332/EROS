@@ -103,7 +103,7 @@
 	name = "sciencia banner"
 	desc = "The banner of Sciencia, bold and daring thaumaturges and researchers that take the path less traveled."
 	icon_state = "banner_science"
-	job_loyalties = list("Scientist", "Roboticist", "Research Director")
+	job_loyalties = list("Scientist", "Roboticist", "Research Director", "Explorer")
 	warcry = "For Cuban Pete!"
 
 /obj/item/banner/science/mundane

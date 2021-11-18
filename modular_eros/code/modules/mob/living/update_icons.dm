@@ -18,7 +18,7 @@
 	if(resize != RESIZE_DEFAULT_SIZE)
 		changed++
 		ntransform.Scale(resize)
-		ntransform.Translate(0, (-8 * (old_body_size/32))/2)
+		ntransform.Translate(0, (-8 * (old_body_size/world.icon_size))/2)
 		ntransform.Translate(0, (8 * resize)/2)
 		resize = RESIZE_DEFAULT_SIZE
 

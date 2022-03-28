@@ -8,7 +8,9 @@
 		/obj/item/clothing/suit/toggle/rp_jacket/orange = 3,
 		/obj/item/clothing/suit/toggle/rp_jacket/purple = 3,
 		/obj/item/clothing/suit/toggle/rp_jacket/red = 3,
-		/obj/item/clothing/suit/toggle/rp_jacket/white = 3
+		/obj/item/clothing/suit/toggle/rp_jacket/white = 3,
+		/obj/item/clothing/head/clownpiece = 1,
+		/obj/item/clothing/under/clownpiece = 1
 	)
 	var/list/extra_contraband = list(
 		/obj/item/clothing/under/rank/civilian/lawyer/galaxy_red = 3
